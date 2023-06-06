@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-library/static/css/main.ee9b2428.css",
+    "main.js": "/react-library/static/js/main.dad4f2a2.js",
+    "static/js/787.1bb883f1.chunk.js": "/react-library/static/js/787.1bb883f1.chunk.js",
+    "static/media/Undraw_Books.svg": "/react-library/static/media/Undraw_Books.64f45ed25262241aba12eff6dcb25d88.svg",
+    "static/media/Library.svg": "/react-library/static/media/Library.70d0a6a90c21c295982ded03f9ea8615.svg",
+    "static/media/empty_cart.svg": "/react-library/static/media/empty_cart.378125a834ec5473a1cffd7c59e06527.svg",
+    "index.html": "/react-library/index.html",
+    "static/media/wave.svg": "/react-library/static/media/wave.42edd5970e3619090a0f.svg",
+    "main.ee9b2428.css.map": "/react-library/static/css/main.ee9b2428.css.map",
+    "main.dad4f2a2.js.map": "/react-library/static/js/main.dad4f2a2.js.map",
+    "787.1bb883f1.chunk.js.map": "/react-library/static/js/787.1bb883f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee9b2428.css",
+    "static/js/main.dad4f2a2.js"
+  ]
+}
